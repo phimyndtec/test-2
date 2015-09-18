@@ -14,4 +14,6 @@ test()
 	
 	int e = d+a;
 	// test here
+	
+	int f = a + b+ c +d;
 }
