@@ -8,4 +8,5 @@
 test()
 {
 	int alpha;
+	int beta2;
 }
