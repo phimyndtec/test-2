@@ -7,13 +7,5 @@
 #include "calculate.h"
 test()
 {
-	int a = 5;
-	int b = 10;
-	int c = a+b;
-	int d = b-a;
-	
-	int e = d+a;
-	// test here
-	
-	int f = a + b+ c +d;
+	int alpha;
 }
