@@ -12,5 +12,6 @@ test()
 	int c = a+b;
 	int d = b-a;
 	
+	int e = d+a;
 	// test here
 }
